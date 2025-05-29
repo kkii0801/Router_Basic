@@ -17,7 +17,7 @@ function Main(){
 			Main Page
 
 			{
-				location.state === null ? "" : "from portfolio"+location.state
+				location.state === null ? "" : " from portfolio"+location.state
 			}
 		</div>
 	);
